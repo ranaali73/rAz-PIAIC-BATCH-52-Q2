@@ -5,7 +5,7 @@ export default function Home() {
         السَّلامُ عَلَيْكُم ورَحْمَةُ اللّٰہِ وَبَرَكاتُهُ
       </h1>
       <p style={{ fontFamily: 'Arial, sans-serif', fontSize: '18px', textAlign: 'center' }}>
-        My name is Rana Ali Zeeshan and I'm a software engineer.
+        My name is Rana Ali Zeeshan and I am a software engineer.
       </p>
     </>
   );
