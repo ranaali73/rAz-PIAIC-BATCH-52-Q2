@@ -9,7 +9,7 @@ const projects = [
         name: "Nextjs14 Portfolio",
         description:
             "Using the latest technologies and design trends to build websites that are not only beautiful but functional and user-friendly as well.",
-        image: "/static/img/project.png",
+        image: "/static/images/project.png",
         github: "https://github.com/ranaali73/rAz-PIAIC-BATCH-52-Q2/tree/main/raz-portfolio-next14",
         link: "https://r-az-piaic-batch-52-q2.vercel.app/",
     },
@@ -18,7 +18,7 @@ const projects = [
         name: "Nextjs14 Portfolio",
         description:
             "Using the latest technologies and design trends to build websites that are not only beautiful but functional and user-friendly as well.",
-        image: "/static/img/project.png",
+        image: "/static/images/project.png",
         github: "https://github.com/ranaali73/rAz-PIAIC-BATCH-52-Q2/tree/main/raz-portfolio-next14",
         link: "https://r-az-piaic-batch-52-q2.vercel.app/",
     },
@@ -27,7 +27,7 @@ const projects = [
         name: "Nextjs14 Portfolio",
         description:
             "Using the latest technologies and design trends to build websites that are not only beautiful but functional and user-friendly as well.",
-        image: "/static/img/project.png",
+        image: "/static/images/project.png",
         github: "https://github.com/ranaali73/rAz-PIAIC-BATCH-52-Q2/tree/main/raz-portfolio-next14",
         link: "https://r-az-piaic-batch-52-q2.vercel.app/",
     },
