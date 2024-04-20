@@ -7,6 +7,7 @@ const skills = [
     { skill: "JavaScript" },
     { skill: "TypeScript" },
     { skill: "Next.js" },
+    { skill: "React.js" },
     { skill: "Tailwind CSS" },
     { skill: "API" },
     { skill: "Python" },
@@ -42,10 +43,7 @@ const AboutSection = () => {
                         </p>
                         <br />
                         <p>
-                            I have a wide range of hobbies and passions that keep me busy.
-                            From reading, playing sports, traveling, to making YouTube videos,
-                            I am always seeking new experiences and love to keep myself
-                            engaged and learning new things.
+                            I am constantly engaged in various hobbies and passions, from reading and playing sports to exploring new destinations through travel. Seeking fresh experiences fuels my desire for continuous learning and growth.
                         </p>
                         <br />
                         <p>
@@ -53,10 +51,7 @@ const AboutSection = () => {
                             <span className="font-bold text-teal-500">
                                 never stop growing
                             </span>{" "}
-                            and that&#39;s what I strive to do, I have a passion for
-                            technology and a desire to always push the limits of what is
-                            possible. I am excited to see where my career takes me and am
-                            always open to new opportunities. 🙂
+                            and that&#39;s what I strive to excel in technology, driven by a passion for pushing the limits of what's possible. I am excited to see where my career takes me and am always open to new opportunities. 🙂
                         </p>
                     </div>
                     <div className="text-center md:w-1/2 md:text-left">
