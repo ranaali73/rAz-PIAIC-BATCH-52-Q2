@@ -51,7 +51,7 @@ const AboutSection = () => {
                             <span className="font-bold text-teal-500">
                                 never stop growing
                             </span>{" "}
-                            and that&#39;s what I strive to excel in technology, driven by a passion for pushing the limits of what's possible. I am excited to see where my career takes me and am always open to new opportunities. 🙂
+                            and that&#39;s what I strive to excel in technology, driven by a passion for pushing the limits of whats possible. I am excited to see where my career takes me and am always open to new opportunities. 🙂
                         </p>
                     </div>
                     <div className="text-center md:w-1/2 md:text-left">

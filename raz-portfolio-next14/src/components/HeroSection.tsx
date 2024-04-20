@@ -24,7 +24,7 @@ const HeroSection = () => {
                         <span className="font-semibold text-teal-600">
                             Software Engineer{" "}
                         </span>
-                        based in Lahore, Pakistan, dedicated to crafting high-quality software solutions that enhance efficiency and enrich lives. Let's collaborate to create something exceptional!
+                        based in Lahore, Pakistan, dedicated to crafting high-quality software solutions that enhance efficiency and enrich lives. Lets collaborate to create something exceptional!
                     </p>
                     <Link
                         to="projects"
